@@ -25,7 +25,9 @@ https://www.loom.com/share/892def3ce8834b899fa2a0fd71ba4381
 React,Django
 ## How to configure
 Instructions for setting up project
+FrontEnd:
+You need to install node.js.You can download and install them from the official website: https://nodejs.org/en.
 ## How to Run
-Frontend: Frontend can be run using npm start command.Prerequisites are: Install react and node
+Frontend: Frontend can be run using npm start command.
 
 Backend: 
